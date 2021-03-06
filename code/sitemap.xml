@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://thanh245.000webhostapp.com/index.html</loc>
+  <lastmod>2020-08-31T13:46:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://thanh245.000webhostapp.com/DanhNhan.html</loc>
+  <lastmod>2020-08-31T13:46:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thanh245.000webhostapp.com/ConNguoi.html</loc>
+  <lastmod>2020-08-31T13:46:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thanh245.000webhostapp.com/DuLich.html</loc>
+  <lastmod>2020-08-31T13:46:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thanh245.000webhostapp.com/AmThuc.html</loc>
+  <lastmod>2020-08-31T13:46:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
